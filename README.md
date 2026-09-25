@@ -1,6 +1,6 @@
 - Hi, I’m Charuka Karunarathna
 - Software Engineer | Cloud & DevOps Enthusiast
-- Computer Science Undergraduate
+- Computer Science Graduate - First Class Honours
 - Reach me on <a href="mailto:hello@charukank.com">hello@charukank.com</a>
 
 <!---
